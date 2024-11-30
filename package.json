@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/yanrdgs-dev/letterbotd/issues"
   },
-  "homepage": "https://github.com/yanrdgs-dev/letterbotd#readme"
+  "homepage": "https://github.com/yanrdgs-dev/letterbotd#readme",
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
 }
