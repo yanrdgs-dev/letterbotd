@@ -1,0 +1,24 @@
+{
+  "name": "letterbotd",
+  "version": "1.0.0",
+  "description": "Discord bot to decide your next movie to watch from your favorite Letterboxd lists!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanrdgs-dev/letterbotd.git"
+  },
+  "keywords": [
+    "discord-bot",
+    "letterboxd",
+    "movies"
+  ],
+  "author": "Yan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanrdgs-dev/letterbotd/issues"
+  },
+  "homepage": "https://github.com/yanrdgs-dev/letterbotd#readme"
+}
