@@ -1,4 +1,4 @@
-# .env
-.env
+# sensitive data 
+config.json
 # node modules
 node_modules/
