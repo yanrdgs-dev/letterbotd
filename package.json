@@ -22,6 +22,9 @@
   },
   "homepage": "https://github.com/yanrdgs-dev/letterbotd#readme",
   "dependencies": {
-    "discord.js": "^14.16.3"
+    "axios": "^1.7.8",
+    "cheerio": "^1.0.0",
+    "discord.js": "^14.16.3",
+    "puppeteer": "^23.9.0"
   }
 }
